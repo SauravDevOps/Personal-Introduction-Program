@@ -1,0 +1,79 @@
+2. Requirements
+2.1 Functional Requirements
+
+The system shall:
+
+Prompt the user to enter their name.
+
+Prompt the user to enter their age.
+
+Prompt the user to enter their city.
+
+Allow the user to enter multiple hobbies/interests.
+
+Continue accepting hobbies until the user types “done”.
+
+Store all user inputs using appropriate variables and data structures.
+
+Display a personalized and friendly welcome message.
+
+Display the list of hobbies entered by the user in a readable format.
+
+Run successfully from the command line without errors.
+
+2.2 Non-Functional Requirements
+
+The system should:
+
+Be easy to use for beginners with no programming background.
+
+Produce clear and readable output.
+
+Execute with minimal response time.
+
+Be maintainable and readable, with proper indentation and comments.
+
+Work consistently across different operating systems (Windows, macOS, Linux).
+
+2.3 User Requirements
+
+The user should have basic knowledge of:
+
+Running Python programs
+
+Using a terminal or command prompt
+
+The user should be able to:
+
+Provide text-based input
+
+Read console output easily
+
+2.4 System Requirements
+Hardware Requirements
+
+Any computer capable of running Python
+
+Minimum 2 GB RAM
+
+Keyboard and display
+
+Software Requirements
+
+Python version 3.x
+
+Operating System:
+
+Windows / macOS / Linux
+
+Code editor or IDE (VS Code, PyCharm, Spyder, or similar)
+
+2.5 Constraints
+
+The program is console-based and does not include a graphical user interface (GUI).
+
+Internet connection is not required.
+
+Input validation is minimal and assumes correct user input.
+
+Data entered is not stored permanently and is lost after program execution ends.
